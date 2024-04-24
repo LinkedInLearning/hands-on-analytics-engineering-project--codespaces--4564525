@@ -1,4 +1,4 @@
-OrderNum,EmpID ,Employee Name,Employee Name,employee_job_title,OrderDate,OrderType,CustomerType,CustID,custname,custname,ProdCategory,ProdNumber,Prod_Name,Quantity,price  , Order Total 
+order number,employee id,employee name,employee name,employee_job_title,order date,order type,customer type,cust id,customer name,customer name,prod category,prod number,prod_name,quantity,price,order total
 1102935,900019019,Alexandra Kundt,Alexandra Kundt,Senior Sales Associate,2/9/2019,Retail,Individual,1574,Skipton Fealty,Skipton Fealty,Olive Oil,OO206,Chili Extra Virgin Olive Oil 2pk,3,$45.00 ,135
 1102935,900019019,Alexandra Kundt,Alexandra Kundt,Senior Sales Associate,2/9/2019,Retail,Individual,1574,Skipton Fealty,Skipton Fealty,Olive Oil,OO206,Chili Extra Virgin Olive Oil 2pk,3,$45.00 ,135
 1102976,900019019,Alexandra Kundt,Alexandra Kundt,Senior Sales Associate,2/15/2019,Retail,Individual,1809,Lanni D'Ambrogi,Lanni D'Ambrogi,Gift Basket,GB301,Scented Olive Oil Candle Gift Basket,1,$19.50 ,19.5
