@@ -1,4 +1,4 @@
-OrderNum,CustState
+order_number,customer_state
 1102935,Arkansas
 1102976,Missouri
 1102988,Mississippi
