@@ -11,6 +11,7 @@ order number,employee id,employee name,employee name,employee_job_title,order da
 1103172,900019019,Alexandra Kundt,Alexandra Kundt,Senior Sales Associate,3/18/2019,Retail,Individual,3896,Devlin Nock,Devlin Nock,Olive Oil,OO204,Lemon Extra Virgin Olive Oil 2pk,4,$45.00 ,180
 1103175,900019019,Alexandra Kundt,Alexandra Kundt,Senior Sales Associate,3/19/2019,Retail,Individual,3761,Jerrilyn Doubrava,Jerrilyn Doubrava,Olive Oil,OO307,Rosemary Extra Virgin Olive Oil,3,$26.00 ,78
 1103240,900019019,Alexandra Kundt,Alexandra Kundt,Senior Sales Associate,3/29/2019,Retail,Individual,1574,Skipton Fealty,Skipton Fealty,Olive Oil,OO207,Basil Extra Virgin Olive Oil 2pk,2,$45.00 ,90
+1103240,900019019,Alexandra Kundte,Alexandra Kundte,Senior Sales Associate,3/29/2019,Retail,Individual,1574,Skipton Fealty,Skipton Fealty,Olive Oil,OO207,Basil Extra Virgin Olive Oil 2pk,2,$45.00 ,90
 1103282,900019019,Alexandra Kundt,Alexandra Kundt,Senior Sales Associate,4/3/2019,Retail,Individual,3896,Devlin Nock,Devlin Nock,Bath products,BP105,Lavender and Olive Oil Lotion,4,$9.99 ,39.96
 1103312,900019019,Alexandra Kundt,Alexandra Kundt,Senior Sales Associate,4/7/2019,Retail,Individual,3186,Granny Matevosian,Granny Matevosian,Bath products,BP303,Mandarin and Olive Oil Bar Soap,1,$5.99 ,5.99
 1103348,900019019,Alexandra Kundt,Alexandra Kundt,Senior Sales Associate,4/12/2019,Retail,Individual,3542,Dean Wharin,Dean Wharin,Olive Oil,OO205,Rosemary Extra Virgin Olive Oil 2pk,1,$45.00 ,45
@@ -186,6 +187,7 @@ order number,employee id,employee name,employee name,employee_job_title,order da
 1106046,900018213,Alisha Hendricks,Alisha Hendricks,Senior Sales Representative,5/8/2020,Retail,Individual,2179,Arly Jose,Arly Jose,Olive Oil,OO125,Garlic Extra Virgin Olive Oil 12pk,1,$234.00 ,234
 1106072,900018213,Alisha Hendricks,Alisha Hendricks,Senior Sales Representative,5/11/2020,Retail,Individual,1961,Merrel Drawmer,Merrel Drawmer,Bath products,BP503,Vanilla and Olive Oil Bar Soap,2,$5.99 ,11.98
 1106099,900018213,Alisha Hendricks,Alisha Hendricks,Senior Sales Representative,5/14/2020,Retail,Individual,2869,Bentley Cawsby,Bentley Cawsby,Bath products,BP100,Lavender and Olive Body Soap,3,$7.45 ,22.35
+1106099,900018213,Alisha Hendrick,Alisha Hendrick,Senior Sales Representative,5/14/2020,Retail,Individual,2869,Bentley Cawsby,Bentley Cawsby,Bath products,BP100,Lavender and Olive Body Soap,3,$7.45 ,22.35
 1106135,900018213,Alisha Hendricks,Alisha Hendricks,Senior Sales Representative,5/17/2020,Retail,Individual,1918,Tisha Underhill,Tisha Underhill,Olive Oil,OO303,Extra Virgin Olive Oil - Delicate,1,$24.50 ,24.5
 1106266,900018213,Alisha Hendricks,Alisha Hendricks,Senior Sales Representative,6/6/2020,Retail,Individual,4018,Billie Barnewille,Billie Barnewille,Gift Basket,GB103,Lemon EVOO Gift Basket,1,$75.00 ,75
 1106423,900018213,Alisha Hendricks,Alisha Hendricks,Senior Sales Representative,6/27/2020,Retail,Individual,4075,Aime Burhouse,Aime Burhouse,Bath products,BP105,Lavender and Olive Oil Lotion,3,$9.99 ,29.97
