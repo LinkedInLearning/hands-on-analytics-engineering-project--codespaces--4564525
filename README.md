@@ -27,7 +27,7 @@ To resolve this issue:
 3. [Course-specific instructions]
 
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+[0]: # (Replace these placeholder URLs with actual course URLs)  
 
 [lil-course-url]: https://www.linkedin.com/learning/
 [lil-thumbnail-url]: http://
