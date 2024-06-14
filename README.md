@@ -25,9 +25,19 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
+### Instructor
+
+Connor Dickson
+
+Analytics Engineer                
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/connor-dickson?u=104).
+
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
 [lil-course-url]: https://www.linkedin.com/learning/hands-on-analytics-engineering-project
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQEeQu7tFcF64A/learning-public-crop_675_1200/0/1718381158863?e=2147483647&v=beta&t=SEoWsTpoE6WUzPCO9EcVW6mEOa0_N2cTEOw-jLCFK7c
+
+
 
